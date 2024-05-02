@@ -13,11 +13,17 @@ The DApp consists of a basic HTML webpage with buttons for setting and retrievin
 2. # Smart Contract:
 A Solidity smart contract named MoodDiary.sol is deployed on the Ethereum Sepolia test network. This contract includes functions for setting and getting mood values.
 
+![2024-05-03 (1)](https://github.com/JPV2207/Mood-DApp/assets/111731727/1dbb5fe4-2140-475f-99f1-c45703d42fc3)
+
+
 3. # Integration with MetaMask:
 Users interact with the DApp through the MetaMask browser extension, which handles transactions and account management.
 
 4. # Ethers.js Integration:
 The frontend interface communicates with the deployed smart contract using the ethers.js library. This allows users to interact with the contract functions directly from the webpage.
+
+![2024-05-03 (3)](https://github.com/JPV2207/Mood-DApp/assets/111731727/593df82e-96d9-416d-b678-41f95edc1ff7)
+
 
 5. # Testing:
 The DApp can be tested locally by running the lite-server. Users can set and retrieve mood values to simulate real-world usage.
