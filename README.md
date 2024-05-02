@@ -22,7 +22,7 @@ Users interact with the DApp through the MetaMask browser extension, which handl
 4. # Ethers.js Integration:
 The frontend interface communicates with the deployed smart contract using the ethers.js library. This allows users to interact with the contract functions directly from the webpage.
 
-![2024-05-03 (3)](https://github.com/JPV2207/Mood-DApp/assets/111731727/593df82e-96d9-416d-b678-41f95edc1ff7)
+![2024-05-03 (3)](https://github.com/JPV2207/Mood-DApp/assets/111731727/3f34f29d-51f8-421e-8bc0-5037dddd8a1b)
 
 
 5. # Testing:
