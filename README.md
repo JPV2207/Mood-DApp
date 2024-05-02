@@ -6,6 +6,8 @@ This repository contains the code for a decentralized application (DApp) built o
 # How It Works
 1. # Frontend Interface:
 The DApp consists of a basic HTML webpage with buttons for setting and retrieving mood values.
+
+![Alt Text](2024-05-03.png)
    
 2. # Smart Contract:
 A Solidity smart contract named MoodDiary.sol is deployed on the Ethereum Sepolia test network. This contract includes functions for setting and getting mood values.
